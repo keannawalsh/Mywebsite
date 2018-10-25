@@ -1,0 +1,68 @@
+<!DOCTYPE html >
+<html>
+	<head>
+		<title>Home</title>
+			
+			<style>
+			
+				ul{
+				list-style:none;
+				text-align:center;
+				font-size: 300%;
+				font-family: Arial, "MS Trebuchet", sans-serif;
+				
+			}
+			li{
+				display:inline;
+				margin-left: 50;
+				margin-right: 50;
+			}
+			
+			.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+			
+		</style>
+			</head
+		
+	</head>
+	
+	
+	<body>
+		<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/610710/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
+		
+			<ul>
+			
+			<li><a href="#">HOME</a></li>
+			<li><a href="file:///Z:/215/Mywebsite/about.html">ABOUT</a></li>
+			<li><a href="#">NEWS</a></li>
+			<li><a href="#">CONTACTS</a></li>
+		</ul>
+		<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/610710/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
+		
+	
+	
+		<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/610710/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
+	</body>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</html>
